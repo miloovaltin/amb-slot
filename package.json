@@ -1,16 +1,16 @@
 {
-"name": "amb-slot",
-"theme": "amb slot",
-"version": "5.6.9",
-"description": "amb slot สมัครสมาชิกเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
-"keywords": [
-"amb slot",
-"amb slot เครดิตฟรี",
-"amb slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/amb-slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "amb-slot",
+  "theme": "amb slot",
+  "version": "5.7.0",
+  "description": "amb slot สมัครสมาชิกเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "amb slot",
+    "amb slot เครดิตฟรี",
+    "amb slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/amb-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
